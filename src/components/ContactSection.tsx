@@ -9,7 +9,7 @@ export function ContactSection() {
   const [showForm, setShowForm] = useState(false);
 
   const handleEmailClick = () => {
-    window.location.href = "mailto:info@sinavkoc.ai?subject=SınavKoç AI Hakkında Bilgi";
+    window.location.href = "mailto:info@sinavkocai.com?subject=SınavKoç AI Hakkında Bilgi";
   };
 
   const handleWhatsAppClick = () => {
