@@ -49,7 +49,7 @@ export function SEOHead() {
         "@type": "ContactPoint",
         "telephone": "+90-533-615-12-40",
         "contactType": "Customer Service",
-        "email": "info@sinavkoc.ai"
+        "email": "info@sinavkocai.com"
       },
       "sameAs": [
         "https://x.com/sinavkocai",
