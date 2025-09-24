@@ -41,7 +41,7 @@ export function ContactSection() {
             <CardContent className="p-6 text-center">
               <Mail className="w-8 h-8 mx-auto mb-4 text-primary-foreground" />
               <h3 className="mb-2 text-primary-foreground">E-posta</h3>
-              <p className="text-sm opacity-80 text-primary-foreground">info@sinavkoc.ai</p>
+              <p className="text-sm opacity-80 text-primary-foreground">info@sinavkocai.com</p>
             </CardContent>
           </Card>
           
